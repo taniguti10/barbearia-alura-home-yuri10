@@ -1,0 +1,24 @@
+body{
+
+  font-size: 16px;
+   }
+
+
+  .imagem1{width: 100%;}
+
+.principal {background-color: rgb(151, 144, 144);text-align: center;}
+
+.negrito {color:red;}
+
+.subtitulo{text-align: center;}
+
+.beneficios{width: 50%;}
+
+.lista{display:inline-block;
+vertical-align: top;}
+
+.imagem{width: 100%;
+align-content: center;}
+
+
+.titulo{ padding: 20px;}
